@@ -1,0 +1,33 @@
+{
+  "name": "custom-graphics/golf-cart-wraps",
+  "description": "Public reference data for 34 golf cart models, body configurations, wrap finishes and panels.",
+  "type": "library",
+  "keywords": [
+    "golf-cart",
+    "golf-cart-wraps",
+    "cart-models",
+    "wrap-finishes"
+  ],
+  "homepage": "https://golfcart-wraps.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Golf Cart Wraps",
+      "homepage": "https://golfcart-wraps.com/design?utm_source=packagist&utm_medium=referral&utm_campaign=packagist",
+      "role": "Creator"
+    }
+  ],
+  "support": {
+    "source": "https://github.com/dirt-bike-graphics/golf-cart-wraps",
+    "issues": "https://github.com/dirt-bike-graphics/golf-cart-wraps/issues"
+  },
+  "require": {
+    "php": ">=8.0",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "CustomGraphics\\GolfCartWraps\\": "src/"
+    }
+  }
+}
