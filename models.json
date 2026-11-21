@@ -1,0 +1,271 @@
+{
+  "name": "Golf Cart Models and Wrap Body Styles",
+  "source": "https://golfcart-wraps.com",
+  "updated": "2026-11-21",
+  "total": 34,
+  "reference_note": "Body descriptions and years identify catalog reference configurations. They do not establish cross-year fitment or cutting dimensions.",
+  "panels": [
+    "Front cowl",
+    "Left side panel",
+    "Right side panel",
+    "Rear body"
+  ],
+  "finishes": [
+    {
+      "id": "gloss",
+      "appearance": "Deep painted shine"
+    },
+    {
+      "id": "matte",
+      "appearance": "Reduced glare and a subdued appearance"
+    },
+    {
+      "id": "chrome",
+      "appearance": "Mirror-like metallic reflections"
+    },
+    {
+      "id": "holographic",
+      "appearance": "Color-shifting reflections"
+    }
+  ],
+  "models": [
+    {
+      "id": "club-car",
+      "brand": "Club Car",
+      "model": "Onward 2 Passenger",
+      "reference_year": "2026",
+      "body_configuration": "Standard ride height, two seats, gas, Glacier White"
+    },
+    {
+      "id": "cc-tempo",
+      "brand": "Club Car",
+      "model": "Tempo",
+      "reference_year": "2026",
+      "body_configuration": "Standard ride height, two seats, gas, white body with black roof and seats"
+    },
+    {
+      "id": "cc-onward4",
+      "brand": "Club Car",
+      "model": "Onward 4 Passenger",
+      "reference_year": "2026",
+      "body_configuration": "Standard ride height, rear-facing second row, gas, Matte Blue Onyx"
+    },
+    {
+      "id": "cc-onward4-lifted",
+      "brand": "Club Car",
+      "model": "Onward Lifted 4 Passenger",
+      "reference_year": "2026",
+      "body_configuration": "Lifted, rear-facing second row, gas, Glacier White"
+    },
+    {
+      "id": "cc-onward4-forward",
+      "brand": "Club Car",
+      "model": "Onward 4 Forward Lifted",
+      "reference_year": "2026",
+      "body_configuration": "Lifted, four forward-facing seats, HP Li-Ion PTV, Metallic Black"
+    },
+    {
+      "id": "ezgo",
+      "brand": "E-Z-GO",
+      "model": "RXV 2 Freedom ELiTE Lithium",
+      "reference_year": "2026",
+      "body_configuration": "Two seats, Ocean Grey, black roof"
+    },
+    {
+      "id": "ez-rxv4",
+      "brand": "E-Z-GO",
+      "model": "RXV 4 Summit X ELiTE Lithium",
+      "reference_year": "2026",
+      "body_configuration": "Lifted, four seats with a rear-facing second row, Metallic Charcoal"
+    },
+    {
+      "id": "ez-liberty",
+      "brand": "E-Z-GO",
+      "model": "Liberty Summit X ELiTE Lithium",
+      "reference_year": "2026",
+      "body_configuration": "Four forward-facing seats, Black"
+    },
+    {
+      "id": "ez-express6",
+      "brand": "E-Z-GO",
+      "model": "Express 6 Touring S ELiTE Lithium",
+      "reference_year": "2026",
+      "body_configuration": "Six seats with a rear-facing third row, Platinum"
+    },
+    {
+      "id": "yamaha",
+      "brand": "Yamaha",
+      "model": "Drive² PTV QuieTech EFI",
+      "reference_year": "2026",
+      "body_configuration": "Two seats, gas, Glacier White with Stone roof"
+    },
+    {
+      "id": "yamaha-fleet",
+      "brand": "Yamaha",
+      "model": "Drive² Fleet QuieTech EFI",
+      "reference_year": "2026",
+      "body_configuration": "Two-seat fleet cart, factory cowl without headlights, beige-gold"
+    },
+    {
+      "id": "evolution",
+      "brand": "Evolution",
+      "model": "D5 Ranger 4 Plus",
+      "reference_year": "2026",
+      "body_configuration": "Four forward-facing seats, Arctic Gray"
+    },
+    {
+      "id": "evo-maverick4",
+      "brand": "Evolution",
+      "model": "D5 Maverick 4 Plus",
+      "reference_year": "2026",
+      "body_configuration": "Lifted, four forward-facing seats, brush guard and off-road tires, Arctic Gray"
+    },
+    {
+      "id": "evo-ranger6",
+      "brand": "Evolution",
+      "model": "D5 Ranger 6 Plus",
+      "reference_year": "2026",
+      "body_configuration": "Six forward-facing seats, road tires, Arctic Gray"
+    },
+    {
+      "id": "icon",
+      "brand": "ICON",
+      "model": "i40X",
+      "reference_year": "2026",
+      "body_configuration": "Standard ride height, four seats, rear-facing second row"
+    },
+    {
+      "id": "icon-i60lx",
+      "brand": "ICON",
+      "model": "i60LX",
+      "reference_year": "2026",
+      "body_configuration": "Lifted, six seats, two forward-facing rows and a rear-facing flip seat"
+    },
+    {
+      "id": "bintelli",
+      "brand": "Bintelli",
+      "model": "Beyond 4PR Lifted",
+      "reference_year": "2026",
+      "body_configuration": "Lifted, four seats, white body and black seats"
+    },
+    {
+      "id": "bintelli-4pr",
+      "brand": "Bintelli",
+      "model": "Beyond 4PR",
+      "reference_year": "2026",
+      "body_configuration": "Standard ride height, four seats, rear-facing second row, 14-inch road wheels"
+    },
+    {
+      "id": "bintelli-6pr-lifted",
+      "brand": "Bintelli",
+      "model": "Beyond 6PR Lifted",
+      "reference_year": "2026",
+      "body_configuration": "Lifted, six seats, two forward-facing rows and a rear-facing third row"
+    },
+    {
+      "id": "denago-rover-xl",
+      "brand": "Denago EV",
+      "model": "Rover XL",
+      "reference_year": "2026",
+      "body_configuration": "Four forward-facing seats, gray reference vehicle"
+    },
+    {
+      "id": "ds-early",
+      "brand": "Club Car",
+      "model": "DS (early body)",
+      "reference_year": "1982 to mid-2000",
+      "body_configuration": "Two seats, split backrests and silver roof supports"
+    },
+    {
+      "id": "precedent",
+      "brand": "Club Car",
+      "model": "Precedent i2",
+      "reference_year": "Year unconfirmed",
+      "body_configuration": "Two seats, stock-style front cowl and black wraparound bumper"
+    },
+    {
+      "id": "txt-refresh",
+      "brand": "E-Z-GO",
+      "model": "Freedom TXT (updated front cowl)",
+      "reference_year": "2014 brochure reference",
+      "body_configuration": "Two seats, red body, stock roof and rear bag rack"
+    },
+    {
+      "id": "freedom-rxv-early",
+      "brand": "E-Z-GO",
+      "model": "Freedom RXV (early front cowl)",
+      "reference_year": "2008 to 2014 brochure references",
+      "body_configuration": "Two seats, red body and rear bag rack"
+    },
+    {
+      "id": "freedom-rxv-refresh",
+      "brand": "E-Z-GO",
+      "model": "Freedom RXV (mid-generation front cowl)",
+      "reference_year": "2016 brochure reference",
+      "body_configuration": "Two seats, green body and rear bag rack"
+    },
+    {
+      "id": "freedom-rxv-my24",
+      "brand": "E-Z-GO",
+      "model": "Freedom RXV",
+      "reference_year": "2024",
+      "body_configuration": "Standard ride height, two seats and a rear bag well"
+    },
+    {
+      "id": "express-s4-my24",
+      "brand": "E-Z-GO",
+      "model": "Express S4",
+      "reference_year": "2024",
+      "body_configuration": "Lifted, four seats, rear-facing second row and off-road tires"
+    },
+    {
+      "id": "valor-my24",
+      "brand": "E-Z-GO",
+      "model": "Valor",
+      "reference_year": "2024",
+      "body_configuration": "Standard ride height, two seats and a rear bag well"
+    },
+    {
+      "id": "liberty-my24",
+      "brand": "E-Z-GO",
+      "model": "Liberty",
+      "reference_year": "2024",
+      "body_configuration": "Standard Liberty, four forward-facing seats"
+    },
+    {
+      "id": "g29",
+      "brand": "Yamaha",
+      "model": "The DRIVE / G29",
+      "reference_year": "2007 to 2016 series",
+      "body_configuration": "YDRA or YDRE, two-seat fleet body"
+    },
+    {
+      "id": "g16",
+      "brand": "Yamaha",
+      "model": "G16 Ultima",
+      "reference_year": "1996 to 2002 series",
+      "body_configuration": "G16A or G16E, two seats"
+    },
+    {
+      "id": "g19",
+      "brand": "Yamaha",
+      "model": "G19 Ultima 48V",
+      "reference_year": "1996 to 2002 series",
+      "body_configuration": "G19E, 48V, two seats"
+    },
+    {
+      "id": "g22",
+      "brand": "Yamaha",
+      "model": "G22 G-Max",
+      "reference_year": "2003 to 2007 series",
+      "body_configuration": "G22A or G22E, two seats"
+    },
+    {
+      "id": "icon-i40-2025",
+      "brand": "ICON",
+      "model": "i40 Standard",
+      "reference_year": "2025",
+      "body_configuration": "Standard ride height, four seats, rear-facing second row"
+    }
+  ]
+}
