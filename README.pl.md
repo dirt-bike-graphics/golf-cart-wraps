@@ -29,3 +29,13 @@ Stworzyłem [Golf Cart Wraps](https://golfcart-wraps.com), aby właściciele mog
 <img src="assets/designer-preview.webp" width="640" alt="Golf Cart Wraps 3D Designer preview">
 
 <sub>Porównuj grafikę, panele i wykończenia na wybranym wózku.</sub>
+
+## Elsewhere
+
+**Packages:** [Go Packages](https://pkg.go.dev/github.com/dirt-bike-graphics/golf-cart-wraps) | [npm](https://www.npmjs.com/package/golf-cart-wrap-models) | [PyPI](https://pypi.org/project/golf-cart-wrap-models/) | [JSR](https://jsr.io/@custom-graphics/golf-cart-wrap-models) | [Packagist](https://packagist.org/packages/custom-graphics/golf-cart-wraps) | [Open VSX](https://open-vsx.org/extension/custom-graphics-ref/golf-cart-wraps-reference) | [RubyGems](https://rubygems.org/gems/golf_cart_wrap_models) | [Hex.pm](https://hex.pm/packages/golf_cart_wrap_models) | [HexDocs](https://hexdocs.pm/golf_cart_wrap_models/index.html)
+
+**Datasets:** [Hugging Face Dataset](https://huggingface.co/datasets/customdirtbikegraphics/golf-cart-wrap-models) | [Kaggle](https://www.kaggle.com/datasets/cutecatsforyou/golf-cart-wrap-models) | [Zenodo DOI](https://zenodo.org/records/24421443)
+
+**Guides:** [GitBook Docs](https://golf-cart-wraps.gitbook.io/golf-cart-wraps-docs/) | [Mintlify Docs](https://golf-cart-wraps.mintlify.app/) | [Dev.to Engineering Note](https://dev.to/customdirtbikegraphics/cataloging-34-golf-cart-body-styles-as-flat-json-for-wrap-panel-mapping-18fb)
+
+**Demos:** [Hugging Face Static Space](https://huggingface.co/spaces/customdirtbikegraphics/golf-cart-wraps)
